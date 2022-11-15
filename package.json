@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-unocss",
+  "name": "eslint-plugin-unocss-astro",
   "version": "0.0.1-alpha.2-for-astro",
   "license": "MIT",
   "description": "ESLint plugin for UnoCSS",
