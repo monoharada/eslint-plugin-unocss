@@ -20,7 +20,7 @@ export const traverseClassName: TraverseClassName = ({ rule, visitor }) => {
         value,
       } = node;
 
-      if (name !== 'className' || !value) {
+      if ((name !== 'class' && name !== 'className') || !value) {
         return;
       }
 
