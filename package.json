@@ -1,11 +1,11 @@
 {
   "name": "eslint-plugin-unocss",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.2-for-astro",
   "license": "MIT",
   "description": "ESLint plugin for UnoCSS",
-  "homepage": "https://github.com/devunt/eslint-plugin-unocss#readme",
-  "author": "Bae Junehyeon <devunt@gmail.com>",
-  "repository": { "type": "git", "url": "https://github.com/devunt/eslint-plugin-unocss.git" },
+  "homepage": "https://github.com/monoharada/eslint-plugin-unocss#readme",
+  "author": "monoharada",
+  "repository": { "type": "git", "url": "https://github.com/monoharada/eslint-plugin-unocss.git" },
   "main": "./dist/index.js",
   "files": ["dist"],
   "scripts": {
