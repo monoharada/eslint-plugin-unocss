@@ -1,13 +1,13 @@
 export default {
-  plugins: ['unocss'],
+  plugins: ['unocss-astro'],
   parserOptions: {
     ecmaFeatures: {
       jsx: true,
     },
   },
   rules: {
-    'unocss/classnames-order': 'warn',
-    'unocss/no-duplicated-classnames': 'warn',
-    'unocss/no-excessive-whitespaces': 'warn',
+    'unocss-astro/classnames-order': 'warn',
+    'unocss-astro/no-duplicated-classnames': 'warn',
+    'unocss-astro/no-excessive-whitespaces': 'warn',
   },
 };
