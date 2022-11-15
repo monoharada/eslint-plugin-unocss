@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-unocss-astro",
-  "version": "0.0.1-alpha.2-for-astro",
+  "version": "0.0.1-alpha.3-for-astro",
   "license": "MIT",
   "description": "ESLint plugin for UnoCSS",
   "homepage": "https://github.com/monoharada/eslint-plugin-unocss#readme",
